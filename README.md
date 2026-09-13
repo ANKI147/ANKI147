@@ -4,7 +4,7 @@
 
 Pune, Maharashtra, India
 
-I build C++ collector services for a production vehicle-data platform at **Sonatus**, working on real-time ingestion, concurrency, observability, and reliability on embedded Linux. I also own the logging and tracing framework used to investigate field failures.
+I'm a Software Engineer at **Sonatus**, focused on C++ backend and systems development on Linux.
 
 Alongside systems engineering, I build multi-agent AI applications and real-time backend services. My interests sit behind the API: how data moves, how services behave under load, and how failures are diagnosed.
 
@@ -47,6 +47,8 @@ A real-time messaging backend and browser client with MongoDB persistence and de
 - Reconnection handling, deduplicated messages, and a responsive browser client.
 - Socket-level tests, real MongoDB persistence checks, and a container build in CI.
 
+**Roadmap:** JWT authentication, Nginx load balancing with Redis-backed messaging, and reproducible load testing.
+
 [![Chat checks](https://github.com/ANKI147/scalable-chat-service/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ANKI147/scalable-chat-service/actions/workflows/ci.yml)
 
 [Explore the code](https://github.com/ANKI147/scalable-chat-service) | [Self-hosting setup](https://github.com/ANKI147/scalable-chat-service#self-hosting)
@@ -58,7 +60,7 @@ A real-time messaging backend and browser client with MongoDB persistence and de
 
 [View the mobile interface](https://github.com/ANKI147/scalable-chat-service/blob/main/docs/chat-mobile.png).
 
-Local demonstration with test messages. This is a single-instance public-room project, not a benchmarked production-scale service.
+Local demonstration with test messages. The current architecture uses one Node.js instance, MongoDB persistence, and a shared chat room.
 
 </details>
 
@@ -68,9 +70,7 @@ Local demonstration with test messages. This is a single-instance public-room pr
 
 **June 2025 - Present | Pune, India**
 
-- Build and maintain C++ collector services for concurrent, real-time vehicle signal streams across multiple vehicle variants.
-- Own the LOG & TRACE framework: telemetry capture, log generation and collection, system tracing, and core-dump handling.
-- Tune concurrency and resource usage on constrained embedded-Linux targets, diagnose cross-service defects, and extend automated test and CI coverage.
+Work on C++ systems software, debugging, reliability, and automated testing.
 
 ### Accenture | Application Developer Intern
 
@@ -90,7 +90,7 @@ Built a generative-AI-augmented OCR pipeline for printed and handwritten text, w
 
 ## Technical Focus
 
-| Area | Technologies and Practices |
+| Area | Technologies & Practices |
 | --- | --- |
 | Core languages | C++ (11/17), Python, SQL, JavaScript; also Rust, Java, Bash |
 | Systems and concurrency | Embedded Linux, POSIX, multithreading, IPC, D-Bus, sockets, shared memory |
@@ -111,8 +111,6 @@ GPA: **8.5/10**. Coursework includes operating systems, databases, distributed s
 
 - Algorithmic problems solved across LeetCode, Codeforces, CodeChef, and HackerRank.
 - **Runner-up:** Innerve7 Hackathon.
-- **Winner:** Sonatus AI Hackathon(NetPositive).
-- **PMSS scholarship:** four consecutive years.
 - **Certifications:** Google Cybersecurity and Network Security (2024); Machine Learning, Internshala Trainings.
 
 ## Connect
