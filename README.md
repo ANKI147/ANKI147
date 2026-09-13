@@ -109,9 +109,9 @@ GPA: **8.5/10**. Coursework includes operating systems, databases, distributed s
 
 ## Highlights
 
-- **500+** algorithm problems solved across LeetCode, Codeforces, CodeChef, and HackerRank.
-- **CodeChef:** peak rating 1532. **HackerRank:** 5-star Problem Solving.
+- Algorithmic problems solved across LeetCode, Codeforces, CodeChef, and HackerRank.
 - **Runner-up:** Innerve7 Hackathon.
+- **Winner:** Sonatus AI Hackathon(NetPositive).
 - **PMSS scholarship:** four consecutive years.
 - **Certifications:** Google Cybersecurity and Network Security (2024); Machine Learning, Internshala Trainings.
 
